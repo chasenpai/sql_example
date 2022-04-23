@@ -1,1 +1,1 @@
-# sql-example(mariaDB)
+# sql_example(mariaDB)
